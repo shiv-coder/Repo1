@@ -1,0 +1,25 @@
+[
+	{
+		"name": "JavaScript",
+		"courseid": "comp1073",
+		"coursegr": {
+			"assignments":["inclass", "online"],
+			"quiz": ["midterm", "endterm"]
+		}
+	},
+	{
+		"name": "IOS ",
+		"courseid": "mdev1006",
+		"coursegr": {
+			"assignments":["inclass", "online"],
+			"quiz": ["midterm", "endterm"]
+		}
+	},
+	{"name": "Application",
+		"courseid": "mdev1000",
+		"coursegr": {
+			"assignments":["inclass", "online"],
+			"quiz": ["midterm", "endterm"]
+		}
+	}
+	]
